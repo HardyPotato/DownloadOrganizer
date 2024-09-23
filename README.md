@@ -22,4 +22,4 @@ This Python script automatically organizes files in your Downloads folder into c
 3. Run the script:
 
 ```bash
-python organize_downloads.py
+python DownloadOrganizer.py
